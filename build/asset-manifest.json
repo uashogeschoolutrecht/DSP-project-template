@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DSP-cookiecutter-data-science/static/css/main.bc093271.css",
+    "main.js": "/DSP-cookiecutter-data-science/static/js/main.e1d3d032.js",
+    "index.html": "/DSP-cookiecutter-data-science/index.html",
+    "main.bc093271.css.map": "/DSP-cookiecutter-data-science/static/css/main.bc093271.css.map",
+    "main.e1d3d032.js.map": "/DSP-cookiecutter-data-science/static/js/main.e1d3d032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc093271.css",
+    "static/js/main.e1d3d032.js"
+  ]
+}
