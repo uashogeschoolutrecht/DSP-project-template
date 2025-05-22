@@ -1,0 +1,58 @@
+.app-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.main-paper {
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.form-section {
+  margin-bottom: 30px;
+}
+
+.form-field {
+  margin-bottom: 16px;
+}
+
+.form-help-text {
+  margin-top: 4px;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 0.85rem;
+}
+
+.preview-container {
+  margin-top: 20px;
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 16px;
+  background-color: #f7f7f7;
+}
+
+.file-tree {
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.file-tree ul {
+  margin: 0;
+  padding: 0 0 0 20px;
+  list-style-type: none;
+}
+
+.file-tree-item {
+  white-space: nowrap;
+}
+
+.file-tree-item::before {
+  content: "📄 ";
+}
+
+.file-tree-folder::before {
+  content: "📁 ";
+}
