@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DSP-cookiecutter-data-science/static/css/main.bc093271.css",
-    "main.js": "/DSP-cookiecutter-data-science/static/js/main.e1d3d032.js",
-    "index.html": "/DSP-cookiecutter-data-science/index.html",
-    "main.bc093271.css.map": "/DSP-cookiecutter-data-science/static/css/main.bc093271.css.map",
-    "main.e1d3d032.js.map": "/DSP-cookiecutter-data-science/static/js/main.e1d3d032.js.map"
+    "main.css": "/DSP-project-template/static/css/main.bc093271.css",
+    "main.js": "/DSP-project-template/static/js/main.c85cb58d.js",
+    "index.html": "/DSP-project-template/index.html",
+    "main.bc093271.css.map": "/DSP-project-template/static/css/main.bc093271.css.map",
+    "main.c85cb58d.js.map": "/DSP-project-template/static/js/main.c85cb58d.js.map"
   },
   "entrypoints": [
     "static/css/main.bc093271.css",
-    "static/js/main.e1d3d032.js"
+    "static/js/main.c85cb58d.js"
   ]
 }
